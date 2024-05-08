@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "21",
+      "title": "100 komada plastificiranih vizitki",
+      "type": "Završeno",
+      "location": "2024-05-07",
+      "description": "Potrebno uraditi dizajn, printati, plastificirati i isjeci kartice dimenzije 100x60mm",
+      "salary": "20",
+      "company": {
+        "name": "Nevres Kurta",
+        "description": "Prodaja elektronike i elektronickih uredjaja u Srebreniku.",
+        "contactEmail": "neveres_kurta@gmail.com",
+        "contactPhone": "061 726 332"
+      }
+    },
+    {
+      "id": "542c",
+      "title": "Poster Nebo iznad nas",
+      "type": "Završeno",
+      "location": "2024-05-09",
+      "description": "Potreban poster 300x400mm sa bijelim okvirom. Printati na Xerox-u, koristiti okvir iz Jyska.\nZatim poslati BH Poštom, napraviti najavu na OLX-u.",
+      "salary": "40",
+      "company": {
+        "name": "Stanoje Ðukanović",
+        "description": "Ulica Kneza Ive broj 10\n75420, Bratunac\nBosna i Hercegovina",
+        "contactEmail": "nema@mail.a",
+        "contactPhone": "066 317 087"
+      }
+    },
+    {
+      "id": "2ee7",
+      "title": "Naljepnica za krevet dezen Paw Patrol br 10",
+      "type": "Naručeno",
+      "location": "2024-05-08",
+      "description": "Print na Latex 310, upisati u evidenciju Nerki",
+      "salary": "15",
+      "company": {
+        "name": "NEMIR DOO",
+        "description": "-",
+        "contactEmail": "nemirdoo@gmail.com",
+        "contactPhone": "061939483"
+      }
+    },
+    {
+      "id": "8d0b",
+      "title": "Izrada fotografija 10x6cm",
+      "type": "Naručeno",
+      "location": "2024-05-10",
+      "description": "print i sjecenje fotografija ukupno 1300 komada",
+      "salary": "320",
+      "company": {
+        "name": "Elma Dzinic Suljic",
+        "description": "Adisova zena",
+        "contactEmail": "nema@mail.a",
+        "contactPhone": "061 125 588"
+      }
+    },
+    {
+      "id": "1fd9",
+      "title": "Naljepnice Straus 500 komada",
+      "type": "Naručeno",
+      "location": "2024-05-10",
+      "description": "Naljepnice za motornu pilu",
+      "salary": "25",
+      "company": {
+        "name": "Dario Jovanovic",
+        "description": "Arizona",
+        "contactEmail": "almirj13@gmail.com",
+        "contactPhone": "061845681"
+      }
+    },
+    {
+      "id": "bf2a",
+      "title": "Majice za maturante",
+      "type": "Naručeno",
+      "location": "2024-05-10",
+      "description": "Print na prednju stranu majica za maturante.\nPotrebno:\n1. Napraviti pripremu\n2. Poslati pripremu Laseru\n3. Pripremiti majice i presu",
+      "salary": "120",
+      "company": {
+        "name": "Selmir Dzanic",
+        "description": "Bjelave",
+        "contactEmail": "nema@mail.a",
+        "contactPhone": "0603527052"
+      }
+    }
+  ]
+}
